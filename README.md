@@ -1,2 +1,2 @@
 # testingpart1
-testing
+git tutorial part only
